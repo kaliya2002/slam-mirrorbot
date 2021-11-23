@@ -1,0 +1,247 @@
+[2021.11.23 19:09:55] Launched version: 3002005, install beta: [FALSE], alpha: 0, debug mode: [FALSE]
+[2021.11.23 19:09:55] Executable dir: C:/Users/HP/AppData/Roaming/Telegram Desktop/, name: Telegram.exe
+[2021.11.23 19:09:55] Initial working dir: C:/Users/HP/AppData/Roaming/Telegram Desktop/
+[2021.11.23 19:09:55] Working dir: C:/Users/HP/AppData/Roaming/Telegram Desktop/
+[2021.11.23 19:09:55] Command line: C:\Users\HP\AppData\Roaming\Telegram Desktop\Telegram.exe
+[2021.11.23 19:09:55] Executable path before check: C:/Users/HP/AppData/Roaming/Telegram Desktop/Telegram.exe
+[2021.11.23 19:09:55] Logs started
+[2021.11.23 19:09:56] Connecting local socket to Global\b708548e4a4485b11f065dc03262cd81-{87A94AB0-E370-4cde-98D3-ACC110C5967D}...
+[2021.11.23 19:09:56] This is the only instance of Telegram, starting server and app...
+[2021.11.23 19:09:56] Moved logging from 'C:/Users/HP/AppData/Roaming/Telegram Desktop/log_start0.txt' to 'C:/Users/HP/AppData/Roaming/Telegram Desktop/log.txt'!
+[2021.11.23 19:09:56] Primary screen DPI: 96
+[2021.11.23 19:09:56] Font: from ':/gui/fonts/DAOpenSansRegular.ttf' loaded 'DAOpenSansRegular'
+[2021.11.23 19:09:56] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2021.11.23 19:09:56] Font: from ':/gui/fonts/DAOpenSansRegularItalic.ttf' loaded 'DAOpenSansRegularItalic'
+[2021.11.23 19:09:56] Font: from ':/gui/fonts/DAVazirRegular.ttf' loaded 'DAVazirRegular'
+[2021.11.23 19:09:56] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2021.11.23 19:09:56] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.11.23 19:09:56] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2021.11.23 19:09:56] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.11.23 19:09:56] Font: from ':/gui/fonts/DAOpenSansSemiboldAsBold.ttf' loaded 'DAOpenSansSemibold'
+[2021.11.23 19:09:56] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.11.23 19:09:56] Font: from ':/gui/fonts/DAOpenSansSemiboldItalicAsBold.ttf' loaded 'DAOpenSansSemiboldItalic'
+[2021.11.23 19:09:56] Font: from ':/gui/fonts/DAVazirMediumAsBold.ttf' loaded 'DAVazirMedium'
+[2021.11.23 19:09:56] Using DirectX compiler 'C:\Users\HP\AppData\Roaming\Telegram Desktop\modules\x64\d3d\d3dcompiler_47.dll'.
+[2021.11.23 19:09:57] App Info: reading settings...
+[2021.11.23 19:09:57] App Info: reading encrypted settings...
+[2021.11.23 19:09:57] Lang Info: Loaded cached, keys: 3486
+[2021.11.23 19:09:57] OpenAL Logging Level: (not set)
+[2021.11.23 19:09:57] Audio Playback Devices: OpenAL Soft on Speaker / Headphone (Realtek(R) Audio)
+[2021.11.23 19:09:57] Audio Playback Default Device: OpenAL Soft on Speaker / Headphone (Realtek(R) Audio)
+[2021.11.23 19:09:57] Audio Capture Devices: OpenAL Soft on Microphone Array (Realtek(R) Audio);OpenAL Soft on Stereo Mix (Realtek(R) Audio)
+[2021.11.23 19:09:57] Audio Capture Default Device: OpenAL Soft on Microphone Array (Realtek(R) Audio)
+[2021.11.23 19:09:58] App Info: reading accounts info...
+[2021.11.23 19:09:58] App Info: reading encrypted info...
+[2021.11.23 19:09:58] App Info: reading map...
+[2021.11.23 19:09:58] App Info: reading encrypted map...
+[2021.11.23 19:09:58] App Info: reading encrypted user settings...
+[2021.11.23 19:09:58] App Info: encrypted user settings read.
+[2021.11.23 19:09:58] App Info: reading encrypted mtp data...
+[2021.11.23 19:09:58] MTP Info: read keys, current: 4, to destroy: 0
+[2021.11.23 19:09:58] Map read time: 58
+[2021.11.23 19:09:58] App Info: reading encrypted mtp config...
+[2021.11.23 19:09:59] Export Info: Destroy top bar by controller removal.
+[2021.11.23 19:09:59] OpenGL: Using custom 'gpu_driver_bug_list.json'.
+[2021.11.23 19:09:59] OpenGL Profile: OpenGLES.
+[2021.11.23 19:09:59] OpenGL Renderer: ANGLE (Intel, Intel(R) UHD Graphics Direct3D11 vs_5_0 ps_5_0, D3D11-27.20.100.8935)
+[2021.11.23 19:09:59] OpenGL Vendor: Google Inc. (Intel)
+[2021.11.23 19:09:59] OpenGL Version: OpenGL ES 3.0.0 (ANGLE 2.1.7 git hash: 0bb011f9e403)
+[2021.11.23 19:09:59] OpenGL Extensions: GL_EXT_shader_texture_lod, GL_OES_texture_half_float_linear, GL_ANGLE_get_tex_level_parameter, GL_ANGLE_client_arrays, GL_ANGLE_texture_compression_dxt5, GL_ANGLE_get_serialized_context_string, GL_OES_compressed_ETC2_RGB8_texture, , GL_ANGLE_memory_size, GL_EXT_EGL_image_external_wrap_modes, GL_OES_texture_border_clamp, GL_ANGLE_multi_draw, GL_OES_depth24, GL_EXT_disjoint_timer_query, GL_OES_vertex_array_object, GL_OES_texture_half_float, GL_ANGLE_texture_multisample, GL_OES_compressed_ETC2_punchthroughA_sRGB8_alpha_texture, GL_EXT_unpack_subimage, GL_EXT_blend_func_extended, GL_EXT_read_format_bgra, GL_ANGLE_instanced_arrays, GL_KHR_parallel_shader_compile, GL_OES_compressed_ETC2_sRGB8_texture, GL_EXT_texture_compression_rgtc, GL_OES_mapbuffer, GL_ANGLE_robust_client_memory, GL_EXT_texture_norm16, GL_EXT_robustness, GL_CHROMIUM_copy_texture, GL_EXT_discard_framebuffer, GL_OES_compressed_ETC2_RGBA8_texture, GL_OES_compressed_ETC2_punchthroughA_RGBA8_texture, GL_ANGLE_depth_texture, GL_OES_depth32, GL_EXT_float_blend, GL_OES_compressed_EAC_R11_unsigned_texture, GL_ANGLE_program_cache_control, GL_KHR_debug, GL_OES_compressed_EAC_RG11_signed_texture, GL_OES_compressed_ETC2_sRGB8_alpha8_texture, GL_EXT_texture_storage, GL_CHROMIUM_lose_context, GL_EXT_texture_filter_anisotropic, GL_OES_texture_float, GL_OVR_multiview2, GL_ANGLE_texture_compression_dxt3, GL_EXT_draw_buffers_indexed, GL_OES_EGL_image, GL_NV_pixel_buffer_object, GL_EXT_texture_compression_s3tc_srgb, GL_EXT_sRGB, GL_OES_EGL_image_external_essl3, GL_OES_element_index_uint, GL_OES_standard_derivatives, GL_EXT_blend_minmax, GL_EXT_texture_format_BGRA8888, GL_ANGLE_explicit_context_gles1, GL_ANGLE_base_vertex_base_instance, GL_EXT_occlusion_query_boolean, GL_OES_packed_depth_stencil, GL_EXT_debug_label, GL_OVR_multiview, GL_OES_texture_stencil8, GL_ANGLE_provoking_vertex, GL_ANGLE_request_extension, GL_EXT_draw_elements_base_vertex, GL_ANGLE_explicit_context, GL_EXT_multisampled_render_to_texture, GL_OES_rgb8_rgba8, GL_ANGLE_lossy_etc_decode, GL_OES_fbo_render_mipmap, GL_CHROMIUM_bind_generates_resource, GL_EXT_color_buffer_half_float, GL_OES_compressed_EAC_RG11_unsigned_texture, GL_OES_surfaceless_context, GL_EXT_color_buffer_float, GL_OES_compressed_EAC_R11_signed_texture, GL_OES_texture_npot, GL_ANGLE_texture_usage, GL_WEBGL_video_texture, GL_EXT_frag_depth, GL_EXT_instanced_arrays, GL_EXT_draw_buffers, GL_OES_get_program_binary, GL_ANGLE_framebuffer_multisample, GL_CHROMIUM_sync_query, GL_EXT_texture_rg, GL_CHROMIUM_bind_uniform_location, GL_EXT_debug_marker, GL_OES_draw_buffers_indexed, GL_ANGLE_copy_texture_3d, GL_OES_EGL_image_external, GL_ANGLE_translated_shader_source, GL_NV_EGL_stream_consumer_external, GL_CHROMIUM_copy_compressed_texture, GL_EXT_texture_compression_dxt1, GL_NV_pack_subimage, GL_NV_fence, GL_OES_texture_float_linear, GL_EXT_texture_compression_bptc, GL_ANGLE_framebuffer_blit, GL_ANGLE_pack_reverse_row_order, GL_EXT_map_buffer_range, GL_ANGLE_multiview_multisample, GL_OES_draw_elements_base_vertex
+[2021.11.23 19:09:59] EGL Extensions: EGL_EXT_create_context_robustness, EGL_ANGLE_d3d_share_handle_client_buffer, EGL_ANGLE_d3d_texture_client_buffer, EGL_ANGLE_surface_d3d_texture_2d_share_handle, EGL_ANGLE_query_surface_pointer, EGL_ANGLE_window_fixed_size, EGL_ANGLE_keyed_mutex, EGL_ANGLE_surface_orientation, EGL_ANGLE_direct_composition, EGL_ANGLE_windows_ui_composition, EGL_NV_post_sub_buffer, EGL_KHR_create_context, EGL_KHR_image, EGL_KHR_image_base, EGL_KHR_gl_texture_2D_image, EGL_KHR_gl_texture_cubemap_image, EGL_KHR_gl_renderbuffer_image, EGL_KHR_get_all_proc_addresses, EGL_KHR_stream, EGL_KHR_stream_consumer_gltexture, EGL_NV_stream_consumer_gltexture_yuv, EGL_ANGLE_flexible_surface_compatibility, EGL_ANGLE_stream_producer_d3d_texture, EGL_ANGLE_create_context_webgl_compatibility, EGL_CHROMIUM_create_context_bind_generates_resource, EGL_CHROMIUM_sync_control, EGL_EXT_pixel_format_float, EGL_KHR_surfaceless_context, EGL_ANGLE_display_texture_share_group, EGL_ANGLE_display_semaphore_share_group, EGL_ANGLE_create_context_client_arrays, EGL_ANGLE_program_cache_control, EGL_ANGLE_robust_resource_initialization, EGL_ANGLE_create_context_extensions_enabled, EGL_ANDROID_blob_cache, EGL_ANDROID_recordable, EGL_ANGLE_image_d3d11_texture, EGL_ANGLE_create_context_backwards_compatible, EGL_KHR_create_context_no_error, EGL_KHR_reusable_sync, 
+[2021.11.23 19:09:59] OpenGL: QOpenGLContext created, version: 3.3.
+[2021.11.23 19:10:00] OpenGL: [TRUE] (OverlayWidget)
+[2021.11.23 19:10:02] API Warning: not loaded minimal channel applied.
+[2021.11.23 19:10:02] API Warning: not loaded minimal channel applied.
+[2021.11.23 19:10:02] API Warning: not loaded minimal channel applied.
+[2021.11.23 19:10:03] API Warning: not loaded minimal channel applied.
+[2021.11.23 19:10:05] API Warning: not loaded minimal channel applied.
+[2021.11.23 19:10:06] API Warning: not loaded minimal channel applied.
+[2021.11.23 19:10:07] Message Info: bad message notification received (error_code 33) for msg_id = 7033759770504817736, seq_no = 224
+[2021.11.23 19:10:07] Message Info: bad message notification received, msgId 7033759770504817736, error_code 33
+[2021.11.23 19:10:22] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 19:10:25] Audio Info: Closing audio playback device.
+[2021.11.23 19:10:32] Skipping message, because it is already in blocks!
+[2021.11.23 19:13:38] Message Info: bad message notification received (error_code 33) for msg_id = 7033760676778823796, seq_no = 558
+[2021.11.23 19:13:38] Message Info: bad message notification received, msgId 7033760676778823796, error_code 33
+[2021.11.23 19:13:38] Skipping message, because it is already in blocks!
+[2021.11.23 19:14:28] Message Info: bad message notification received (error_code 33) for msg_id = 7033760891487553196, seq_no = 114
+[2021.11.23 19:14:28] Message Info: bad message notification received (error_code 33) for msg_id = 7033760891871209052, seq_no = 116
+[2021.11.23 19:14:28] Message Info: bad message notification received, msgId 7033760891871209052, error_code 33
+[2021.11.23 19:14:39] Message Info: bad message notification received (error_code 33) for msg_id = 7033760938978568424, seq_no = 98
+[2021.11.23 19:14:39] Message Info: bad message notification received, msgId 7033760938978568424, error_code 33
+[2021.11.23 19:15:40] Message Info: bad message notification received (error_code 33) for msg_id = 7033761201165609184, seq_no = 126
+[2021.11.23 19:15:40] Message Info: bad message notification received, msgId 7033761201165609184, error_code 33
+[2021.11.23 19:19:25] Skipping message, because it is already in blocks!
+[2021.11.23 19:21:31] Message Info: bad message notification received (error_code 33) for msg_id = 7033762708474772384, seq_no = 790
+[2021.11.23 19:21:31] Message Info: bad message notification received, msgId 7033762708474772384, error_code 33
+[2021.11.23 19:21:40] Message Info: bad message notification received (error_code 33) for msg_id = 7033762747360906444, seq_no = 36
+[2021.11.23 19:21:40] Message Info: bad message notification received (error_code 33) for msg_id = 7033762747417582832, seq_no = 37
+[2021.11.23 19:21:40] Message Info: bad message notification received, msgId 7033762747417582832, error_code 33
+[2021.11.23 19:22:28] Skipping message, because it is already in blocks!
+[2021.11.23 19:22:28] Skipping message, because it is already in blocks!
+[2021.11.23 19:22:47] Message Info: bad message notification received (error_code 33) for msg_id = 7033763034973425864, seq_no = 394
+[2021.11.23 19:22:47] Message Info: bad message notification received, msgId 7033763034973425864, error_code 33
+[2021.11.23 19:23:15] Message Info: bad message notification received (error_code 33) for msg_id = 7033763155025624216, seq_no = 58
+[2021.11.23 19:23:15] Message Info: bad message notification received, msgId 7033763155025624216, error_code 33
+[2021.11.23 19:23:19] Skipping message, because it is already in blocks!
+[2021.11.23 19:25:09] Skipping message, because it is already in blocks!
+[2021.11.23 19:26:56] Message Info: bad message notification received (error_code 33) for msg_id = 7033764104128070532, seq_no = 474
+[2021.11.23 19:26:56] Message Info: bad message notification received, msgId 7033764104128070532, error_code 33
+[2021.11.23 19:27:31] Message Info: bad message notification received (error_code 33) for msg_id = 7033764254456099656, seq_no = 76
+[2021.11.23 19:27:31] Message Info: bad message notification received, msgId 7033764254456099656, error_code 33
+[2021.11.23 19:28:03] Skipping message, because it is already in blocks!
+[2021.11.23 19:30:05] Message Info: bad message notification received (error_code 33) for msg_id = 7033764915905398528, seq_no = 503
+[2021.11.23 19:30:05] Message Info: bad message notification received, msgId 7033764915905398528, error_code 33
+[2021.11.23 19:30:43] Message Info: bad message notification received (error_code 33) for msg_id = 7033765079093270044, seq_no = 148
+[2021.11.23 19:30:43] Message Info: bad message notification received, msgId 7033765079093270044, error_code 33
+[2021.11.23 19:31:07] Skipping message, because it is already in blocks!
+[2021.11.23 19:33:55] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 19:33:58] Audio Info: Closing audio playback device.
+[2021.11.23 19:34:26] Message Info: bad message notification received (error_code 33) for msg_id = 7033766035553859160, seq_no = 330
+[2021.11.23 19:34:26] Message Info: bad message notification received, msgId 7033766035553859160, error_code 33
+[2021.11.23 19:44:43] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.11.23 19:44:43] Config Error: Bad data size 0 required 344
+[2021.11.23 19:44:44] Config Error: Failed to parse dns response JSON, error: illegal value
+[2021.11.23 19:44:44] Config Error: Bad data size 0 required 344
+[2021.11.23 19:44:45] Skipping message, because it is already in blocks!
+[2021.11.23 19:44:46] Message Info: bad message notification received (error_code 33) for msg_id = 7033768700426473580, seq_no = 436
+[2021.11.23 19:44:46] Message Info: bad message notification received (error_code 33) for msg_id = 7033768700701273004, seq_no = 440
+[2021.11.23 19:44:46] Message Info: bad message notification received, msgId 7033768700701273004, error_code 33
+[2021.11.23 19:48:30] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 19:48:33] Audio Info: Closing audio playback device.
+[2021.11.23 19:48:34] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 19:48:36] Audio Info: Closing audio playback device.
+[2021.11.23 19:48:42] Message Info: bad message notification received (error_code 33) for msg_id = 7033769714512316680, seq_no = 350
+[2021.11.23 19:48:42] Message Info: bad message notification received, msgId 7033769714512316680, error_code 33
+[2021.11.23 19:48:49] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 19:48:52] Audio Info: Closing audio playback device.
+[2021.11.23 19:49:01] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 19:49:03] Audio Info: Closing audio playback device.
+[2021.11.23 19:49:08] Message Info: bad message notification received (error_code 33) for msg_id = 7033769820725664656, seq_no = 114
+[2021.11.23 19:49:27] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 19:49:30] Audio Info: Closing audio playback device.
+[2021.11.23 19:49:32] RPC Error: request 2469 got fail with code 406, error SEND_CODE_UNAVAILABLE
+[2021.11.23 19:49:45] RPC Error: request 2489 got fail with code 406, error SEND_CODE_UNAVAILABLE
+[2021.11.23 19:49:54] Skipping message, because it is already in blocks!
+[2021.11.23 19:50:01] Export Info: Destroy top bar by controller removal.
+[2021.11.23 19:50:12] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 19:50:15] Audio Info: Closing audio playback device.
+[2021.11.23 19:50:54] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 19:50:57] Audio Info: Closing audio playback device.
+[2021.11.23 19:51:00] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 19:51:02] Audio Info: Closing audio playback device.
+[2021.11.23 19:51:07] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 19:51:09] Audio Info: Closing audio playback device.
+[2021.11.23 19:51:23] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 19:51:26] Audio Info: Closing audio playback device.
+[2021.11.23 19:51:41] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 19:51:44] Audio Info: Closing audio playback device.
+[2021.11.23 19:52:31] Export Info: Destroy top bar by controller removal.
+[2021.11.23 19:52:39] Skipping message, because it is already in blocks!
+[2021.11.23 19:52:54] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 19:52:57] Audio Info: Closing audio playback device.
+[2021.11.23 19:56:23] Message Info: bad message notification received (error_code 33) for msg_id = 7033771693365710304, seq_no = 672
+[2021.11.23 19:56:23] Message Info: bad message notification received, msgId 7033771693365710304, error_code 33
+[2021.11.23 19:59:47] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:47] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:47] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:47] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:47] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:47] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:47] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:47] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:47] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:47] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:47] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:47] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:47] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:47] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:47] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:47] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:48] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:48] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:48] App Error: Can't read history till unknown local message.
+[2021.11.23 19:59:48] Skipping message, because it is already in blocks!
+[2021.11.23 19:59:51] Skipping message, because it is already in blocks!
+[2021.11.23 20:00:15] Skipping message, because it is already in blocks!
+[2021.11.23 20:00:36] Skipping message, because it is already in blocks!
+[2021.11.23 20:03:22] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:03:23] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:03:23] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:03:23] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:03:23] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:03:23] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:03:23] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:03:23] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:03:23] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:03:23] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:07:27] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:09:59] Message Info: bad message notification received (error_code 33) for msg_id = 7033775194760331268, seq_no = 1032
+[2021.11.23 20:09:59] Message Info: bad message notification received, msgId 7033775194760331268, error_code 33
+[2021.11.23 20:17:41] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 20:17:44] Audio Info: Closing audio playback device.
+[2021.11.23 20:17:50] Message Info: bad message notification received (error_code 33) for msg_id = 7033777220953504912, seq_no = 14
+[2021.11.23 20:17:50] Message Info: bad message notification received, msgId 7033777220953504912, error_code 33
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] App Error: Can't read history till unknown local message.
+[2021.11.23 20:18:28] Skipping message, because it is already in blocks!
+[2021.11.23 20:18:45] RPC Error: request 3623 got fail with code 400, error CHAT_ADMIN_REQUIRED
+[2021.11.23 20:18:45] RPC Error: request 3618 got fail with code 400, error USER_NOT_PARTICIPANT
+[2021.11.23 20:19:34] Skipping message, because it is already in blocks!
+[2021.11.23 20:20:01] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 20:20:04] Audio Info: Closing audio playback device.
+[2021.11.23 20:22:29] Skipping message, because it is already in blocks!
+[2021.11.23 20:22:35] Skipping message, because it is already in blocks!
+[2021.11.23 20:23:53] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 20:23:56] Audio Info: Closing audio playback device.
+[2021.11.23 20:27:20] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 20:27:23] Audio Info: Closing audio playback device.
+[2021.11.23 20:27:32] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 20:27:34] Audio Info: Closing audio playback device.
+[2021.11.23 20:35:50] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:35:50] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:35:50] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:35:50] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:35:50] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:35:50] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:43:54] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:44:04] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:44:19] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:47:39] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:47:43] API Warning: not loaded minimal channel applied.
+[2021.11.23 20:48:31] Message Info: bad message notification received (error_code 33) for msg_id = 7033785126415295716, seq_no = 2094
+[2021.11.23 20:48:31] Message Info: bad message notification received, msgId 7033785126415295716, error_code 33
+[2021.11.23 20:56:30] Skipping message, because it is already in blocks!
+[2021.11.23 20:57:01] Skipping message, because it is already in blocks!
+[2021.11.23 20:57:01] Skipping message, because it is already in blocks!
+[2021.11.23 20:57:03] Skipping message, because it is already in blocks!
+[2021.11.23 20:57:11] Skipping message, because it is already in blocks!
+[2021.11.23 20:57:19] Skipping message, because it is already in blocks!
+[2021.11.23 20:57:41] API Warning: not loaded minimal channel applied.
+[2021.11.23 21:08:41] Skipping message, because it is already in blocks!
+[2021.11.23 21:09:23] Skipping message, because it is already in blocks!
+[2021.11.23 21:11:03] Message Info: bad message notification received (error_code 33) for msg_id = 7033790934901995232, seq_no = 1120
+[2021.11.23 21:11:32] Audio Info: recreating audio device and reattaching the tracks
+[2021.11.23 21:11:35] Audio Info: Closing audio playback device.
+[2021.11.23 21:16:43] RPC Error: request 5137 got fail with code 400, error USER_NOT_PARTICIPANT
+[2021.11.23 21:16:43] RPC Error: request 5142 got fail with code 400, error CHAT_ADMIN_REQUIRED
+[2021.11.23 21:16:46] RPC Error: request 5150 got fail with code 400, error USER_NOT_PARTICIPANT
+[2021.11.23 21:16:46] RPC Error: request 5155 got fail with code 400, error CHAT_ADMIN_REQUIRED
+[2021.11.23 21:16:53] RPC Error: request 5172 got fail with code 400, error CHAT_ADMIN_REQUIRED
